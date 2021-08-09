@@ -13,7 +13,6 @@ const  mySubmitHandler = (event) => {
         setAnswer({answer:event.target.value})
       }
 
-
     return(
 
         <>
